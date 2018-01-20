@@ -1,3 +1,6 @@
+*.odt
+*.doc
+*.xdoc
 # Compiled class file
 *.class
 
